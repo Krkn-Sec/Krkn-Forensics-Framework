@@ -1,4 +1,5 @@
 # Krkn Forensics Framework
+![Screenshot](https://github.com/dontw8up/Krkn-Forensics-Framework/blob/master/Krkn%20Forensics%20Framework/menu.PNG "Menu")
 ## Description: A one-stop-shop for Linux based forensics tools.
 This framework is written in bash and tested on Ubuntu 20.04 LTS and Kali 2020.
 
